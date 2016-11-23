@@ -1,11 +1,6 @@
-Augurk
+Notice
 ======
 
-ToDo
-
-+ Description on Github page
-+ Proper starting page
-+ Proper branch page
-+ Separate MSBuild task to publish testresults
-+ Command line tool to publish features and testresults
-+ Maintenance pages (Remove branches, declare server side tags)
+Augurk has moved!
+In an effort to become a bit more professional I have moved Augurk to it's own organization.  
+Go check it out on https://github.com/Augurk!
